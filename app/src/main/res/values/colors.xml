@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="turkuaz1">#103673</color>  <!-- Turkuaz ton 1 -->
+    <color name="turkuaz2">#011B4B</color>  <!-- Turkuaz ton 2 -->
+    <color name="beyaz1">#011B4B</color>     <!-- Beyaz -->
+   <color name="beyaz2">#C6D6F4</color>     <!-- Açık beyaz-mavi ton -->
+</resources>
+
+
+
+
